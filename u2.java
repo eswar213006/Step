@@ -20,6 +20,6 @@ class u2 {
             System.out.println(word + " is not a Palindrome");
         }
     }
-} {
+} 
     
-}
+
